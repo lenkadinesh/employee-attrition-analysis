@@ -128,6 +128,13 @@ The analysis revealed several important findings:
 - Deployment using Power BI Service
 
 ---
+---
 
 ## 👨‍💻 Author
 
+**Lenka Dinesh**
+
+Passionate about **Data Analytics, Business Intelligence, Python, SQL, and Power BI**, with an interest in transforming raw data into meaningful insights through interactive dashboards and data-driven solutions.
+
+- 🐙 GitHub: : https://github.com/lenkadinesh
+---
