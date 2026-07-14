@@ -111,11 +111,13 @@ The analysis revealed several important findings:
 - Increase employee engagement initiatives.
 - Conduct regular employee satisfaction surveys.
 - Strengthen retention strategies for high-risk employee groups.
+---
 
 ## 📷 Dashboard Preview
 
+<img width="418" height="305" alt="Screenshot 2026-07-14 100620" src="https://github.com/user-attachments/assets/dd86a42c-0e09-4f20-a202-f42e51e00115" />
 
-```
+<img width="414" height="302" alt="Screenshot 2026-07-14 100602" src="https://github.com/user-attachments/assets/3aa67c3e-dc4e-4412-abb8-a4f46422a135" />
 
 ---
 
